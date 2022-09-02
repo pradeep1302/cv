@@ -1,0 +1,44 @@
+body {
+    background-color: #EAF6F6;
+}
+
+h1 {
+    color: #bf66aa;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+/*hr {
+    background-color: black;
+    border-style: none;
+    height: 2px;
+  }*/
+
+/* If we want to change our hr to dotted lines*/
+hr {
+    border-color: grey;
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 5px;
+}
+
+img {
+    border-style: solid;
+    border-radius: 50%;
+    border-color: black;
+    border-width: 5px;
+}
+
+a:hover {
+    font-size: 130%;
+}
+
+div {
+    margin: 1% 0% 1% 1%;
+}
+
+#para {
+    margin-bottom: 1%;
+}
